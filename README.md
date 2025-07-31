@@ -12,11 +12,11 @@ This project demonstrates:
 
 ⚙️ Tech Stack
 
-- 🧠 LangChain
-- 🧮 FAISS (Vector store)
-- 🤖 OpenAI / HuggingFace LLM APIs
-- 🗃️ Oracle DB (for source data)
-- 🐍 Python
+- LangChain
+- FAISS (Vector store)
+- OpenAI / HuggingFace LLM APIs
+- Oracle DB (for source data)
+- Python
 
 
 
