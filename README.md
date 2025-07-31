@@ -12,17 +12,6 @@ This project demonstrates:
 2) Use of FAISS for vector storage and semantic search
 3) Building a RAG pipeline to answer compliance queries with context
 
-📁 Structure
-Here’s the layout of the project files:
----------------------------------------
-langchain-compliance-rag/
-├──> notebook/
-│ | ├──> oracle_rag_pipeline.ipynb # Main RAG pipeline demo
-│ | └──> Dataingestion.ipynb # Optional data ingestion steps
-├──> requirements.txt # Required packages
-├──> README.md # Project overview
-
-
 Tech Stack
 ===========
 1. LangChain
