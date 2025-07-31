@@ -12,17 +12,6 @@ This project demonstrates:
 2) Use of FAISS for vector storage and semantic search
 3) Building a RAG pipeline to answer compliance queries with context
 
-
-Tech Stack
-===========
-1) LangChain
-2) FAISS (Vector store)
-3) OpenAI / HuggingFace LLM APIs
-4) Oracle DB (for source data)
-5) Python
-
-
-
 📁 Structure
 
 Tech Stack
