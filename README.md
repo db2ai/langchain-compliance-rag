@@ -25,3 +25,16 @@ Tech Stack
 
 📁 Structure
 
+Tech Stack
+===========
+1. LangChain
+2. FAISS (Vector store)
+3. OpenAI / HuggingFace LLM APIs
+4. Oracle DB (for source data)
+5. Python
+
+📓 Notebook Demo
+=================
+
+You can explore the main pipeline in the notebook here:  
+👉 [`oracle_rag_pipeline.ipynb`](oracle_rag_pipeline.ipynb)
