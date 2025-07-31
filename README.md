@@ -13,6 +13,12 @@ This project demonstrates:
 3) Building a RAG pipeline to answer compliance queries with context
 
 📁 Structure
+├── notebook/
+│   ├── oracle_rag_pipeline.ipynb
+│   └── Dataingestion.ipynb
+├── requirements.txt
+├── README.md
+
 
 Tech Stack
 ===========
